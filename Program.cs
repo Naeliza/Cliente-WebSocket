@@ -30,7 +30,7 @@ namespace WebSocketClient
                 // Bucle principal para enviar solicitudes al servidor
                 while (true)
                 {
-                    Console.Write("Ingrese el número del piso al que desea ir (1-10): ");
+                    Console.Write("\u001b[33mIngrese el número del piso al que desea ir (1-10): \u001b[0m\n");
                     string input = Console.ReadLine();
 
                     if (input.ToLower() == "exit")
