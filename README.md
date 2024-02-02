@@ -32,6 +32,10 @@ dotnet run
 
 4. Para salir del programa, escribe `exit` y presiona Enter.
 
+## Repositorio del servidor
+
+[Servidor-WebSocket-con-la-logica-del-ascensor](https://github.com/Naeliza/Servidor-WebSocket-con-la-logica-del-ascensor)
+
 ## Contribución
 
 Si encuentras algún problema o tienes alguna sugerencia para mejorar este cliente WebSocket, ¡no dudes en abrir un issue o enviar un pull request!
